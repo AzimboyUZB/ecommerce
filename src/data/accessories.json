@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "text": "Все товары",
+        "url": "all"
+    },
+    {
+        "id": 2,
+        "text": "Клип кейс",
+        "url": "clip-case"
+    },
+    {
+        "id": 3,
+        "text": "Стекло защиттное",
+        "url": "protective-glass"
+    },
+    {
+        "id": 4,
+        "text": "Гарнитура",
+        "url": "headset"
+    },
+    {
+        "id": 5,
+        "text": "Наушники с микрофоном",
+        "url": "headphones-with-microphone"
+    },
+    {
+        "id": 6,
+        "text": "Карта памяти",
+        "url": "memory-card"
+    }
+]

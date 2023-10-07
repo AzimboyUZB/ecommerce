@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "icon": "/menuIcons/transportIcon.png",
+        "text": "Транспорт",
+        "url": "#"
+    },
+    {
+        "id": 2,
+        "icon": "/menuIcons/serviceIcon.png",
+        "text": "Недвижимость",
+        "url": "#"
+    },
+    {
+        "id": 3,
+        "icon": "/menuIcons/workIcon.png",
+        "text": "Работа",
+        "url": "#"
+    },
+    {
+        "id": 4,
+        "icon": "/menuIcons/helpIcon.png",
+        "text": "Услуги",
+        "url": "#"
+    },
+    {
+        "id": 5,
+        "icon": "/menuIcons/clothsIcon.png",
+        "text": "Личные вещи",
+        "url": "#"
+    },
+    {
+        "id": 6,
+        "icon": "/menuIcons/forHomeIcon.png",
+        "text": "Для дома и дачи",
+        "url": "#"
+    },
+    {
+        "id": 7,
+        "icon": "/menuIcons/electronicsIcon.png",
+        "text": "Электроника",
+        "url": "#"
+    },
+    {
+        "id": 8,
+        "icon": "/menuIcons/animalsIcon.png",
+        "text": "Животные",
+        "url": "#"
+    },
+    {
+        "id": 9,
+        "icon": "/menuIcons/hobbyIcon.png",
+        "text": "Хобби и отдых",
+        "url": "#"
+    },
+    {
+        "id": 10,
+        "icon": "/menuIcons/businessIcon.png",
+        "text": "Для бизнеса",
+        "url": "#"
+    }
+]

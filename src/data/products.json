@@ -1,0 +1,1262 @@
+[
+    {
+        "id": 1,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "/images/products/redmi.webp",
+        "images": [
+            {
+                "id": 1,
+                "src": "/images/products/redmi.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 2,
+                "src": "/images/products/thumb-1.webp",
+                "alt": "alt"
+            },
+            {
+                "id": 3,
+                "src": "/images/products/thumb-2.webp",
+                "alt": "alt"
+            }
+        ],
+        "category": "Смартфон",
+        "name": "Xiaomi Redmi",
+        "title": "Смартфон Xiaomi Redmi note 8 pro 128GB с новой комплектацией",
+        "colors": [
+            {
+                "id": 1,
+                "name": "зеленый",
+                "value": "green"
+            },
+            {
+                "id": 2,
+                "name": "черный",
+                "value": "black"
+            },
+            {
+                "id": 3,
+                "name": "светло-синий",
+                "value": "lightblue"
+            },
+            {
+                "id": 4,
+                "name": "желтый",
+                "value": "yellow"
+            }
+        ],
+        "defaultColor": "зеленый",
+        "price": 10000,
+        "rating": 4,
+        "comments": 25,
+        "memories": [
+            {
+                "id": 1,
+                "type": "GB",
+                "size": 64
+            },
+            {
+                "id": 2,
+                "type": "GB",
+                "size": 128
+            },
+            {
+                "id": 3,
+                "type": "GB",
+                "size": 256
+            }
+        ],
+        "characteristics": [
+            {
+                "id": 1,
+                "key": "Диагональ",
+                "value": "5 дюймов"
+            },
+            {
+                "id": 2,
+                "key": "Объем встроенной памяти",
+                "value": "32 ГБ"
+            },
+            {
+                "id": 3,
+                "key": "Объем оперативной памяти",
+                "value": "3 ГБ"
+            }
+        ]
+    }
+]

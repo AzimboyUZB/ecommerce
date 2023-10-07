@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "text": "Характеристики",
+        "url": "all-characteristics"
+    },
+    {
+        "id": 2,
+        "text": "Аксессуары",
+        "url": "accessories"
+    },
+    {
+        "id": 3,
+        "text": "Отзывы",
+        "url": "reviews"
+    },
+    {
+        "id": 4,
+        "text": "Рассрочка и кредит",
+        "url": "installment-and-credit"
+    },
+    {
+        "id": 5,
+        "text": "Наличие и доставка",
+        "url": "availability-and-delivery"
+    }
+]

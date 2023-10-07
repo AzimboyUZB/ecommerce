@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "src": "/thumbgallery/iphone-thumb-1.png",
+        "alt": "alt"
+    },
+    {
+        "id": 2,
+        "src": "/thumbgallery/iphone-thumb-2.png",
+        "alt": "alt"
+    },
+    {
+        "id": 3,
+        "src": "/thumbgallery/iphone-thumb-3.png",
+        "alt": "alt"
+    }
+]
